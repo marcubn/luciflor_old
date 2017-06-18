@@ -1,0 +1,3 @@
+Sitemap: http://www.pure-mess.ro/sitemap.xml
+User-Agent: *
+Disallow: 

@@ -1,0 +1,1 @@
+<img src="{if $img_page!=""}{$img_page}{else}{$smarty.const.IMAGES_URL}admin/utile/image.gif{/if}" border="0"{if $img_zoom!=""} onMouseover="ddrivetip('<img src=\'../utile.php?obj=image&action=thumbnail&imgSrc={$img_zoom}&toW={if $width!=""}{$width}{else}400{/if}&toH={if $height!=""}{$height}{else}400{/if}&time={$smarty.now}\' />','', 150)"; onMouseout="hideddrivetip()"{/if} />

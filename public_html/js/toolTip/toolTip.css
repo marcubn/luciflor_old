@@ -1,0 +1,14 @@
+/* CSS Document */
+
+#dhtmltooltip{
+	position: absolute;
+	width: auto;
+	height:auto;
+	border: 2px solid #293F88;
+	padding: 2px;
+	background-color: lightyellow;
+	visibility: hidden;
+	font-family: tahoma;
+	font-size: 11px;
+	z-index: 100;
+}
